@@ -108,4 +108,4 @@
 
 var lifeView = new LifeView(document.getElementById('grid'),12);
 
-//help
+
